@@ -16,3 +16,7 @@
 7. Ocena wyników: porównanie przy pomocy miar graficznych z referencją - mIoU, porównanie z wynikami uzyskanymi przez inną sieć ( rezultaty od nas); ew. wyliczenie miar klinicznych
 
 8. Podsumowanie, wnioski
+
+
+# Links
+https://github.com/arnab39/FewShot_GAN-Unet3D

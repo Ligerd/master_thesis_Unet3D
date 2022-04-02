@@ -19,4 +19,7 @@
 
 
 # Links
-https://github.com/arnab39/FewShot_GAN-Unet3D
+Artiakal
+https://arxiv.org/pdf/1606.06650.pdf
+Code 
+https://github.com/ellisdg/3DUnetCNN

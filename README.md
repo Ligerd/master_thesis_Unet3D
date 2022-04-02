@@ -25,4 +25,4 @@ https://towardsdatascience.com/review-3d-u-net-volumetric-segmentation-medical-i
 https://towardsdatascience.com/review-u-net-biomedical-image-segmentation-d02bf06ca760
 
 Code 
-https://github.com/ellisdg/3DUnetCNN
+https://catalog.ngc.nvidia.com/orgs/nvidia/resources/unet3d_medical_for_tensorflow

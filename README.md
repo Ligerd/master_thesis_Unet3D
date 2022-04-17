@@ -19,9 +19,11 @@
 
 
 # Links
-Artiakal
+Artykuły:
 https://arxiv.org/pdf/1606.06650.pdf
+
 https://towardsdatascience.com/review-3d-u-net-volumetric-segmentation-medical-image-segmentation-8b592560fac1
+
 https://towardsdatascience.com/review-u-net-biomedical-image-segmentation-d02bf06ca760
 
 Code 
